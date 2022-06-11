@@ -32,14 +32,14 @@
   
   - 스위치원: 환전앱 전체 구조설계 및 개발  
   
-<img src="https://user-images.githubusercontent.com/39834903/173180932-61aca6ce-0b1a-4773-9594-ff171056f31d.JPG" width="400" height="300"/>
+  - <img src="https://user-images.githubusercontent.com/39834903/173180932-61aca6ce-0b1a-4773-9594-ff171056f31d.JPG" width="400" height="300"/>
   
   - 국방부 전군PC 보안: 화이트리스트 기반 드라이버 개발, NSIS  
   
 * Back-End    
   
   - NHS: 하이라이트 기능 개발  
-<img src="https://user-images.githubusercontent.com/39834903/173179981-9d3652c7-bfde-4d6b-bc83-cc47807fbd2a.JPG" width="400" height="300"/>
+  - <img src="https://user-images.githubusercontent.com/39834903/173179981-9d3652c7-bfde-4d6b-bc83-cc47807fbd2a.JPG" width="400" height="300"/>
   
   - 터치홀릭: 서버 관리  
 
