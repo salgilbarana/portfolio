@@ -6,7 +6,8 @@
 **학력**  
 👩‍🎓 Korea Army Academy at Yeongcheon. psychology  
 
-**추가 정보**  
+**추가 정보**  ![하이라이트 기능](https://user-images.githubusercontent.com/39834903/173179547-dd4bb680-a738-4fff-9407-13988a1fce3f.JPG)
+
 📌 **[BLOG](https://ychcom.tistory.com/)** |
 **[EMAIL](mailto:ychcom@naver.com)** | **[RESUME](https://programmers.co.kr/pr/ychcom_8336)**  
 
@@ -26,6 +27,9 @@
 
 **Back-End**  
 NHS: 하이라이트 기능 개발  
+![하이라이트 기능](https://user-images.githubusercontent.com/39834903/173179557-afe14805-f109-4681-b4c5-af4362be9fe4.JPG)
+
+
 터치홀릭: 서버 관리  
 
 
