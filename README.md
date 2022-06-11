@@ -19,6 +19,14 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)  
 
 **경력**  
+**Front-End**
+모인 : 송금목적, 송금확인, 송금완료 및 실패 개편 (React-Native, Mobx, Sentry, Mixpannel, Zulu Jdk, Node.js)
+스위치원: 환전앱 전체 구조설계 및 개발 (React-Native, ContextApi, Node.js)
+국방부 전군PC 보안: 화이트리스트 기반 드라이버 개발, NSIS (C, WDk)
+
+**Back-End**
+NHS: 하이라이트 기능 개발 (Fastify, rabbitMQ)
+터치홀릭: 서버 관리 (Koa)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salgilbarana&analayout=compact)](https://github.com/salgilbarana/github-readme-stats)
 
