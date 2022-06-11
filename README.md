@@ -23,10 +23,12 @@
 **Front-End**  
 모인 : 송금목적, 송금확인, 송금완료 및 실패 개편  
 스위치원: 환전앱 전체 구조설계 및 개발  
-국방부 전군PC 보안: 화이트리스트 기반 드라이버 개발, NSIS  
+국방부 전군PC 보안: 화이트리스트 기반 드라이버
+개발, NSIS  
 
 **Back-End**  
 NHS: 하이라이트 기능 개발  
+
 <img src="https://user-images.githubusercontent.com/51365114/119627750-716f3100-be47-11eb-8e83-686b23c2c161.png" width="200" height="400"/>
 
 터치홀릭: 서버 관리  
