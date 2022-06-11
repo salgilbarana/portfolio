@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ChangHyen%20Yun&fontSize=90&animation=twinkling&fontColor=f5f6f7&fontAlignY=50&desc=%20&descAlignY=70&descAlign=62)
 
-💥 ## **직무**  
+##💥 ##**직무**  
 💻 React-Native Developer  
 
 💥 **학력**  
