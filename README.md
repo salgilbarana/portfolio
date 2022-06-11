@@ -8,8 +8,11 @@
 
 **추가 정보**  
 
-📌 **[BLOG](https://ychcom.tistory.com/)** |
-**[EMAIL](mailto:ychcom@naver.com)** | **[RESUME](https://programmers.co.kr/pr/ychcom_8336)**  
+🎱 **[BLOG](https://ychcom.tistory.com/)**  
+
+📧 **[EMAIL](mailto:ychcom@naver.com)**  
+
+📗 **[RESUME](https://programmers.co.kr/pr/ychcom_8336)**  
 
 **기술스택**  
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
