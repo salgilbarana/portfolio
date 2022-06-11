@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=ChangHyen%20Yun&fontSize=90&animation=twinkling&fontColor=f5f6f7&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 💻 React-Native Developer   
-👩‍🎓 Soongsil Univ. Computer Science  
-📌 **[BLOG](https://clotty-cloud.tistory.com)** |
-**[EMAIL](mailto:real.purple.hae.s@gmail.com)** | **[RESUME](https://programmers.co.kr/pr/moosong)**
+👩‍🎓 Korea Army Academy at Yeongcheon. psychology
+📌 **[BLOG](https://ychcom.tistory.com/)** |
+**[EMAIL](mailto:ychcom@naver.com)** | **[RESUME](https://programmers.co.kr/pr/ychcom_8336)**
 
 **메이크** @EXIT-MAKE <sub><sup>서비스 파트 BE Engineer (2021.09.01 ~ 2022.02.28)</sup></sub>  
 **동일여자고등학교**  <sub><sup>보조 교사 (2020.10.29 ~ 2021.07.19)</sup></sub>  
