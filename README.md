@@ -22,7 +22,11 @@
 **경력**  
 **Front-End**  
 모인 : 송금목적, 송금확인, 송금완료 및 실패 개편  
+
+
 스위치원: 환전앱 전체 구조설계 및 개발  
+<img src="https://user-images.githubusercontent.com/39834903/173180932-61aca6ce-0b1a-4773-9594-ff171056f31d.JPG" width="400" height="300"/>
+
 국방부 전군PC 보안: 화이트리스트 기반 드라이버
 개발, NSIS  
 
