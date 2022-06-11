@@ -27,8 +27,7 @@
 
 **Back-End**  
 NHS: 하이라이트 기능 개발  
-![하이라이트 기능](https://user-images.githubusercontent.com/39834903/173179557-afe14805-f109-4681-b4c5-af4362be9fe4.JPG){: width="200" height="200"}
-
+![하이라이트 기능](https://user-images.githubusercontent.com/39834903/173179557-afe14805-f109-4681-b4c5-af4362be9fe4.JPG){: width:"200" height="200" }
 
 터치홀릭: 서버 관리  
 
