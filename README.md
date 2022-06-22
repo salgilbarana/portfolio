@@ -29,6 +29,7 @@
 * Front-End  
   
   - 모인 : 송금목적, 송금확인, 송금완료 및 실패 개편  
+   [Link to Figma](https://www.figma.com/file/x10I9PIcuwdNUdYoi46l4f/Untitled?node-id=0%3A1)
   
   - 스위치원: 환전앱 전체 구조설계 및 개발  
   
